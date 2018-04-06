@@ -1,0 +1,114 @@
+/* 顶部 开始 */
+.one{height: 50px;width: 100%;background-color: #333;}
+.one .two{height: 50px;width: 1226px;margin: 0 auto}
+.one .two .l-three{float: left;line-height: 50px;text-align: center;color: #b0b0b0;font-size: 13px}
+.one .two .r-three{float: right;line-height: 50px;text-align: center;color: #b0b0b0; font-size: 16px}
+.one .two .l-three a{color: #b0b0b0;margin: 0 5px}
+.one .two .l-three a:hover{color: #fff;text-decoration: none;}
+.one .two .r-three .landing{float: left;margin-right: 15px}
+.one .two .r-three .landing a{color: #b0b0b0;}
+.one .two .r-three .landing a:hover{color: #fff;text-decoration: none;}
+.one .two .r-three .car{float:right;width: 100px;height: 50px; background-color: #424242;text-align: center;}
+.one .two .r-three .car a{color: #b0b0b0;}
+.one .two .r-three .car a:hover{color: #fff;text-decoration: none;}
+/* 顶部 结束 */
+
+/* 导航栏 开始 */
+.onebig{height: 80px;width: 100%;}
+.onebig .twobig{height: 80px;width: 1260px;margin: 0 auto;padding-bottom: 20px; border-bottom: 1px solid rgb(17, 151, 204);}
+.onebig .twobig .logo{float: left; width: 240px;margin-top: 20px}
+.onebig .twobig .list li{float: left;line-height: 80px;text-align: center;margin-top: 15px; font-size: 17px}
+.onebig .twobig .list li a{color: #252525; margin: 0 10px}
+.onebig .twobig .list li a:hover{color: gold;text-decoration: none;}
+.onebig .twobig .search{float: right;width: 250px;height: 50px;margin-top: 30px;line-height: 50px; border: 1px solid rgb(202, 202, 202)}
+.onebig .twobig .search #l{float: left; height: 50px;border: none;outline: none;}
+.onebig .twobig .search #r{float: left;width: 50px;text-align: center;cursor: pointer; height: 50px;font-weight: bold;color: #424242; font-size: 15px;border-left: 1px solid rgb(211, 208, 208)}
+/* 导航栏 结束 */
+
+/* main 开始 */
+.main{clear: both; height: 460px;width: 100%;}
+.main .bg{height: 460px;width: 1228px;margin: 27px auto;position: relative;}
+.main .bg .left-list{width:236px;height: 460px;background-color: rgba(51,40,2,0.9); position: absolute;top: 0;left: 0}
+.main .bg .left-list li{font-size: 15px; line-height: 24px;margin: 20px 10px 10px 20px}
+.main .bg .left-list li .b1{float: right;}
+.main .bg .left-list li a{color: #fff;}
+.main .bg .left-list li a:hover{color: rgb(rgb(204, 248, 45), green, blue) ;text-decoration: none}
+/* main 结束 */
+
+/* next 开始 */
+.all{clear: both;height: 172px;width: 100%;}
+.all .pic4{height: 172px;width: 1300px;margin: 25px auto}
+.all .pic4 .a{float: left;height: 172px;margin-left: 20px}
+.all .pic4 .b{float: left;height: 172px;}
+.all .pic4 .c{float: left;height: 172px;}
+.all .pic4 .d{float: left;height: 172px;}
+/* next 结束 */
+
+/* next2 开始 */
+.mid{clear: both; height: 50px;width: 1228px;margin-top: 15px}
+.mid .left{float: left;height: 50px;width: 233px;}
+.mid .left p{font-size: 30px;color: #3b3b3b;margin-left: 50px }
+.mid .right{float: right;height: 30px;width: 102px;border: 1px solid #999999;margin: 15px 0 8px 20px}
+.mid .right .l{float: left;color: #6d6d6d;text-align: center; height: 30px;width: 51px; margin: auto 0;border-right: 1px solid #999999}
+.mid .right .r{color: #6d6d6d;text-align: center;margin-right: 5px; height: 30px; margin: auto 0}
+/* next2 结束 */
+
+/* tupian 开始 237 1225*/
+.bgm{clear: both;width: 100%;height: 200px;}
+.bgm .bigpic{width: 1225px;margin: 15px auto;text-align: center}
+.bgm .bigpic .pica{float: left;border-top: 1px solid gold;width: 237px;background-color: #ebebeb;}
+.bgm .bigpic .pica .pa{width: 237;height: 160px;background-color: rgb(235, 235, 235);}
+.bgm .bigpic .picb{float: left;margin: 0 10px; border-top: 1px solid red;width: 237px;background-color: #ebebeb;}
+.bgm .bigpic .picc{float: left;border-top: 1px solid green;width: 237px;background-color: #ebebeb;}
+.bgm .bigpic .picd{float: left;margin: 0 10px;border-top: 1px solid skyblue;width: 237px;background-color: #ebebeb;}
+.bgm .bigpic .pice{float: left;border-top: 1px solid rgb(3, 3, 236);width: 237px;background-color: #ebebeb;}
+.bgm .bigpic .little{font-size: 8px;color: #646464}
+.bgm .bigpic .little1{font-size: 15px;color: #252525}
+/* tupian 结束 */
+
+/* 智能硬件 开始 */
+.zhineng{clear: both; width: 100%;padding-top: 10px; margin-top: 30px;background-color: rgb(245, 245, 245);}
+.zhineng p{font-size: 30px;color: #3b3b3b;margin-left: 50px }
+/* 智能硬件 结束 */
+/* 主体 开始 */
+.abg{clear: both;width: 100%;padding-top: 10px;background-color: rgb(245, 245, 245);}
+.abg .allpic{height: 700px;width: 1230px;margin: 0 auto;position: relative;}
+.abg .allpic .big{float: left;}
+.abg .allpic .lpic{float: left;position: absolute;top: 0; left: 235px;text-align: center;}
+.abg .allpic .lpic .a1{float: left;background-color: rgb(255, 255, 255);width: 232px;height: 300px;}
+.abg .allpic .lpic .a2{float: left;background-color: rgb(255, 255, 255);margin: 0 10px 10px;width: 232px;height: 300px;}
+.abg .allpic .lpic .a3{float: left;background-color: rgb(255, 255, 255);width: 232px;height: 300px;}
+.abg .allpic .lpic .a4{float: left;background-color: rgb(255, 255, 255);margin: 0 10px 10px;width: 232px;height: 300px;}
+.abg .allpic .lpic .a5{float: left;background-color: rgb(255, 255, 255);width: 232px;height: 300px;}
+.abg .allpic .lpic .a6{float: left;background-color: rgb(255, 255, 255);margin: 0 10px 0;width: 232px;height: 300px;}
+.abg .allpic .lpic .a7{float: left;background-color: rgb(255, 255, 255);width: 232px;height: 300px;}
+.abg .allpic .lpic .a8{float: left;background-color: rgb(255, 255, 255);margin: 0 10px 0;width: 232px;height: 300px;}
+.abg .allpic .lpic .a{font-size: 15px;color: #252525;}
+.abg .allpic .lpic .b{font-size: 12px;color: #6d6d6d;}
+.abg .allpic .lpic .c{font-size: 18px;color: #fd0a0a;line-height: 40px}
+/* 主体 结束 */
+/* 脚部 开始 */
+.long{clear: both; width: 100% ;height: 75px;}
+.long .kuang{float: left;text-align: center;font-size: 18px;line-height: 75px; width: 1228px;height: 75px;border-bottom: 1px solid #969696; color: #838383;margin-left: 30px}
+.long .kuang a{color: #838383;margin: 0 35px}
+/* 脚部 结束 */
+
+.foot{clear: both;width: 1230px;height: 200px;}
+.foot .lfont{float: left;width: 550px;height: 150px;margin: 10px 20px 10px 100px}
+.foot .lfont .aa{float: left;margin: 40px 30px 10px 60px;line-height: 40px}
+.foot .lfont .bb{float: left;margin: 40px 30px 10px;line-height: 40px}
+.foot .lfont .cc{float: left;margin: 40px 30px 10px;line-height: 40px}
+.foot .lfont .dd{float: left;margin: 40px 30px 10px;line-height: 40px}
+.foot .lfont .back{font-size: 16px;color: #252525}
+.foot .lfont .aaa{font-size: 14px;color: #a3a2a2}
+.foot .rfont{float: right;margin-top: 50px; width: 240px;height: 130px;border-left: 1px solid #a3a2a2;}
+.foot .rfont .top{height: 85px;width: 240px; margin: 0 auto;line-height: 25px;text-align: center}
+.foot .rfont .foot{color: #fd3b0a; width: 123px; height: 33px;border: 1px solid #fd3b0a;line-height: 33px;margin: 10px auto;text-align: center}
+.foot .rfont .top .t1{font-size: 20px;color: #fd3b0a;font-weight: bold}
+.foot .rfont .top .t2{font-size: 14px;color: #252525;}
+.foot .rfont .top .t3{font-size: 13px;color: #252525;}
+
+.last{clear: both; height: 50px;width: 1250px;margin: 20px auto}
+.last .lp{float: left;height: 40px;width: 40px;}
+.last .rf{float: left;height: 40px;line-height: 40px;margin: 0 20px;color: #a3a2a2;font-size: 14px}
+.last .rf a{color: #a3a2a2;margin: 0 10px}
